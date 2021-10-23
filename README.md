@@ -50,20 +50,13 @@
 
 ---
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### ⚡ GitHub Stats</summary>
+<br />
 
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coloursplash&count_private=true&bg_color=30,E86444,904E95&text_color=fff&title_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coloursplash&layout=compact&bg_color=30,E86444,904E95&text_color=fff&title_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="Coloursplash's GitHub Stats" src="https://github-readme-stats.Coloursplash.vercel.app/api?username=Coloursplash&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.coloursplash.net
 [twitter]: https://www.coloursplash/twitter
