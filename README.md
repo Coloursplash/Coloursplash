@@ -40,6 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rocket League montage](https://www.youtube.com/watch?v=lrxZa-oJ3gg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.coloursplash.net/youtube)
