@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris - aka [Coloursplash][website] 👋
 
-[![Website](https://img.shields.io/website?label=coloursplash.net&style=for-the-badge&url=https%3A%2Fwww.coloursplash.net)][website]
+[![Website](https://img.shields.io/website?label=coloursplash.net&style=for-the-badge&url=http%3A%2F%2Fwww.coloursplash.net)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/_coloursplash_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/_Coloursplash_&screen_name=_Coloursplash_)
 
 ## I'm a 16-year-old computer science student!
